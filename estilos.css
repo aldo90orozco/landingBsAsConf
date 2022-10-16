@@ -1,0 +1,101 @@
+.navbar{
+    background-color:#46474a;
+    
+}
+
+.navbar-item{
+    color: white;
+}
+
+.comprar-tickets{
+
+    color: #208540;
+}
+
+.navbar-burger{
+    color: white;
+}
+
+.hero{
+    background-image: url(./img/hawaii.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.boton-orador{
+       
+        border: 1px solid #030303;
+        background-color: transparent;
+        box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+        text-decoration: none;
+        color: white;
+}
+.javascript{
+    align-items: center;
+    background:#edbd2b;
+    border-radius: 0.5em;
+    color: black;
+    display: inline-flex;
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size: .6em;
+    font-weight: 600;
+    height: 1.5rem;
+    padding: 0 1em;
+    vertical-align: top;
+}
+.react{
+    align-items: center;
+    background:#2b8ced;
+    border-radius: 0.5em;
+    color: white;
+    display: inline-flex;
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size: .6em;
+    font-weight: 600;
+    height: 1.5rem;
+    padding: 0 1em;
+    vertical-align: top;
+}
+
+.negocios{
+    align-items: center;
+    background:#868e96;
+    border-radius: 0.5em;
+    color: white;
+    display: inline-flex;
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size: .6em;
+    font-weight: 600;
+    height: 1.5rem;
+    padding: 0 1em;
+    vertical-align: top;
+}
+.startups{
+    align-items: center;
+    background:#d44215;
+    border-radius: 0.5em;
+    color: white;
+    display: inline-flex;
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size: .6em;
+    font-weight: 600;
+    height: 1.5rem;
+    padding: 0 1em;
+    vertical-align: top;
+}
+
+.columna-dos{
+    background-color:#46474a;
+    color: white;
+}
+.titulo{
+    color: white;
+}
+
+.columns{
+    display: flex;
+}
